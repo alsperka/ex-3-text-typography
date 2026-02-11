@@ -1,26 +1,16 @@
 
-body {
-    background-color: rgb(255, 247, 225);
-}
-h1 {
-    color:rgb(136, 217, 255)
-}
-p {
-    color:rgb(202, 86, 33)
-}
-h2 {
-    color:rgb(202, 86, 33)
-}
-h3 {
-    color:rgb(202, 86, 33)
-}
-address {
-    color:rgb(202, 86, 33)
-}
-body {
-    line-height: 1.6; 
-}
-
-h1 {
-    line-height: 1;
-}
+body {background-color: rgb(255, 247, 225)}
+h1 {color:rgb(136, 217, 255)}
+p {color:rgb(202, 86, 33)}
+h2 {color:rgb(202, 86, 33)}
+h3 {color:rgb(202, 86, 33);
+font-weight: bolder;}
+address {color:rgb(202, 86, 33)}
+body {line-height: 1.6;}
+h1 {line-height: .8;}
+h1 {font-size: 50px;}
+h2 {font-size: 40px; }
+h1 {font-family: Arial, sans-serif;}
+h2 {font-family: Arial, sans-serif;}
+h3 {font-family: Arial, sans-serif;}
+.right-aligned {text-align: right;}
